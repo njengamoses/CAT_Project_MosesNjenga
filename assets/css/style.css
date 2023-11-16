@@ -24,7 +24,7 @@ h6 {
 }
 
 a {
-  color: orangered;
+  color: dimgray;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -169,7 +169,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: orangered;
+  background-color: dimgray;
   margin: 0 auto;
 }
 
@@ -257,7 +257,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: orangered;
+  color: dimgray;
   margin-right: 10px;
 }
 
@@ -270,7 +270,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px orangered;
+  box-shadow: 0 0 0 10px dimgray;
   display: block;
 }
 
@@ -348,7 +348,7 @@ a:hover {
 
 .back-to-top i {
   font-size: 28px;
-  color: orangered;
+  color: dimgrey;
   line-height: 0;
 }
 
@@ -464,7 +464,7 @@ a:hover {
 }
 
 #header .logo a {
-  color: orangered;
+  color: dimgray;
 }
 
 #header .logo img {
@@ -759,7 +759,7 @@ a:hover {
 }
 
 .hero .hero-title {
-  color: orangered;
+  color: dimgrey;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -874,7 +874,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: orangered;
+  background-color: dimgray;
   box-shadow: 0 0 0 10px black;
 }
 
@@ -910,7 +910,7 @@ a:hover {
 # Counter
 --------------------------------------------------------------*/
 .counter-box {
-  color: orangered;
+  color: dimgrey;
   text-align: center;
 }
 
@@ -969,7 +969,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: orangered;
+  color: dimgrey;
 }
 
 .work-content .w-like {
@@ -979,7 +979,7 @@ a:hover {
 }
 
 .work-content .w-like a {
-  color: orangered;
+  color: dimgray;
 }
 
 .work-content .w-like .num-like {
@@ -1203,7 +1203,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: orangered;
+  background: dimgray;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1257,7 +1257,7 @@ a:hover {
 }
 
 .card-blog .card-category .category {
-  color: orangered;
+  color: dimgrey;
   display: inline-block;
   text-transform: uppercase;
   font-size: 0.7rem;
